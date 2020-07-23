@@ -12,3 +12,8 @@ This is stuff inside the post.
 1. A
 1. Numbered
 1. List
+
+- Here's
+- A
+- Regular
+- List
