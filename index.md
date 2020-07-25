@@ -1,3 +1,8 @@
+---
+name: home
+title: null
+---
+
 # Website of Charlie J Keith
 welcome!
 
