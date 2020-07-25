@@ -2,7 +2,7 @@
 layout: page
 title: "Test Post"
 date: 2020-07-22 22:47:00 -0000
-categories: test
+categories: articles
 ---
 
 # Heyo, it's a first post
