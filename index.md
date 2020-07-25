@@ -2,6 +2,6 @@
 welcome!
 
 ## Posts
-[Test Post](/articles/2020/07/22/first_post)
+[Test Post](/articles/2020/07/22/first-post)
 
 Copyright 2020 Charlie J Keith All Rights Reserved.
