@@ -6,15 +6,16 @@
       list-style-type: none;
       margin: 0;
       padding: 0;
+      overflow: hidden;
     }
     
     li {
       float: left;
-    }
+    } 
     
     a {
       display: block;
-      padding: 8px;
+      padding: 4px 8px 4px 8px;
       margin: 3px;
       border-color: #ccc;
       border-radius: 3px;
