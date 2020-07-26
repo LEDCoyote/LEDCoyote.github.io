@@ -1,5 +1,5 @@
-# Website of Charlie J Keith
-Greetings!
+# LEDCoyote Internet Place
+Greetings from Charlie!
 
-## Posts
+## Contents
 Nothing just yet! 😅
