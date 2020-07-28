@@ -27,7 +27,10 @@
 }
 
 .home-blog-list {
-  margin-bottom: 0.5rem;
+  a.home-post-link {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
   
   .home-excerpt {
     margin-left: 1.5rem;
