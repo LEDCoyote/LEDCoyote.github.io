@@ -9,14 +9,14 @@ title: Blog
 <ul>
   {% for post in site.posts %}
     <li>
-      <div class="date">
-        {{ post.date | date: '%Y-%m-%d' }}:
-      </div>
       <h2>
         <a href="{{ post.url }}">
           {{ post.title }}
         </a>
       </h2>
+      <div class="date">
+        {{ post.date | date: '%Y-%m-%d' }}:
+      </div>
       {{ post.excerpt }}
     </li>
   {% endfor %}
