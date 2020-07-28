@@ -13,7 +13,9 @@ Greetings from Charlie! Short thoughts, reactions, and noodling in the blog<!--,
 <a href="{{ post.url }}">
   {{ post.date | date: '%Y-%m-%d' }}: {{ post.title }}
 </a>
-{{ post.excerpt }}
+<div class="home-excerpt">
+  {{ post.excerpt }}
+</div>
 {% endfor %}
 {% for post in site.posts offset:1 limit:4 %}
 <a href="{{ post.url }}">
