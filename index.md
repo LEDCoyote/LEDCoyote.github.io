@@ -7,7 +7,7 @@ Greetings from Charlie!
 
 ## Contents
 
-### Blog — Latest [(all)](/blog)
+### Latest Blog Posts [(all)](/blog)
 placeholder
 
 ### Articles
