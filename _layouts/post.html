@@ -28,10 +28,14 @@
     
     <div class="blog-nav">
       <div class="previous">
-        <a href="{{ page.previous }}">Previous</a>
+        {% if page.previous.url %}
+        <a href="{{ page.previous.url }}">Previous</a>
+        {% endif %}
       </div>
       <div class="next">
-        <a href="{{ page.next }}">Next</a>
+        {% if page.next.url %}
+        <a href="{{ page.next.url }}">Next</a>
+        {% endif %}
       </div>
     </div>
     <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
