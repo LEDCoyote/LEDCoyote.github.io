@@ -27,36 +27,17 @@
 }
 
 .blog-nav {
-  a {
-    display: block;
-    padding-top: 4px;
-    padding-bottom: 4px;
-    margin-right: 3px;
-    border-color: #ccc;
-    border-style: solid;
-    border-width: 1px;
-    width: 50%;
+  display: flex;
+  
+  div {
+    flex: 1 1 0;
   }
-
-  .previous {
-    float: left;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    
-    a {
-      border-radius: 3px 0px 0px 3px;
-    }
+  
+  .prev {
+    text-align: left;
   }
   
   .next {
-    float: right;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    
-    a {
-      border-radius: 0px 3px 3px 0px;
-    }
+    text-align: right;
   }
 }

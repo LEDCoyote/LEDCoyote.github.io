@@ -29,12 +29,12 @@
     <div class="blog-nav">
       <div class="previous">
         {% if page.previous.url %}
-        <a href="{{ page.previous.url }}">Previous</a>
+        <a href="{{ page.previous.url }}">&laquo;&nbsp;{{page.previous.title}}</a>
         {% endif %}
       </div>
       <div class="next">
         {% if page.next.url %}
-        <a href="{{ page.next.url }}">Next</a>
+        <a href="{{ page.next.url }}">{{page.next.title}}&nbsp;&raquo;</a>
         {% endif %}
       </div>
     </div>
