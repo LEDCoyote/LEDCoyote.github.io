@@ -9,6 +9,7 @@ Greetings from Charlie! Short thoughts, reactions, and noodling in the blog<!--,
 ## Contents
 
 ### Latest Blog Posts [(all)](/blog)
+<div class="home-blog-list">
 {% for post in site.posts limit:1 %}
 <a href="{{ post.url }}">
   {{ post.date | date: '%Y-%m-%d' }}: {{ post.title }}
@@ -22,6 +23,7 @@ Greetings from Charlie! Short thoughts, reactions, and noodling in the blog<!--,
   {{ post.date | date: '%Y-%m-%d' }}: {{ post.title }}
 </a>
 {% endfor %}
+</div>
 
 <!--
 ### Essays
