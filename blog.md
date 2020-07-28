@@ -8,7 +8,6 @@ title: Blog
 <ul>
   {% for post in site.posts %}
     <li>
-    <hr>
       <h2>
         {{ page.date | date: '%Y-%m-%d' }}:
         <a href="{{ post.url }}">
