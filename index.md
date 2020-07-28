@@ -19,9 +19,9 @@ Greetings from Charlie! Short thoughts, reactions, and noodling in the blog<!--,
 </div>
 {% endfor %}
 {% for post in site.posts offset:1 limit:4 %}
-<a href="{{ post.url }}">
+<p><a href="{{ post.url }}">
   {{ post.date | date: '%Y-%m-%d' }}: {{ post.title }}
-</a>
+</a></p>
 {% endfor %}
 </div>
 
