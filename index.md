@@ -1,5 +1,14 @@
+---
+layout: default
+---
+
 # LEDCoyote Internet Place
 Greetings from Charlie!
 
 ## Contents
-Nothing just yet! 😅
+
+### Blog — Latest [(all)](/blog)
+placeholder
+
+### Articles
+placeholder
