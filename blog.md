@@ -9,7 +9,9 @@ title: Blog
 <ul>
   {% for post in site.posts %}
     <li>
-      {{ post.date | date: '%Y-%m-%d' }}:
+      <div class="date">
+        {{ post.date | date: '%Y-%m-%d' }}:
+      </div>
       <h2>
         <a href="{{ post.url }}">
           {{ post.title }}
