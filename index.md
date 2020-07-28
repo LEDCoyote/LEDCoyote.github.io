@@ -9,7 +9,17 @@ Greetings from Charlie! Short thoughts, reactions, and noodling are included in 
 ## Contents
 
 ### Latest Blog Posts [(all)](/blog)
-placeholder
+{% for post in site.posts limit:1 %}
+<a href="{{ post.url }}">
+  {{ post.date | date: '%Y-%m-%d' }}: {{ post.title }}
+</a>
+{{ post.excerpt }}
+{% endfor %}
+{% for post in site.posts offset:1 limit:2 %}
+<a href="{{ post.url }}">
+  {{ post.date | date: '%Y-%m-%d' }}: {{ post.title }}
+</a>
+{% endfor %}
 
 ### Essays
 placeholder
