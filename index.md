@@ -4,12 +4,8 @@ title: Home
 ---
 
 # LEDCoyote Internet Place
-> Though I have grown older and graver,  
-> The great heart of the world remains ever young.  
-> I wasn't always a monster, I was a prince.  
-> Now, so broken, so.  
+> Because I'm addicted to bad ideas an d all the beauty in this world.
 >
-> _Addicted to Bad Ideas_  
 > _World / Inferno Friendship Society_
 
 ## Contents
