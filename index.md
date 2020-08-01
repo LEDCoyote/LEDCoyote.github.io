@@ -4,7 +4,7 @@ title: Home
 ---
 
 # LEDCoyote Internet Place
-> Because I'm addicted to bad ideas an d all the beauty in this world.
+> Because I'm addicted to bad ideas and all the beauty in this world.
 >
 > _World / Inferno Friendship Society_
 
