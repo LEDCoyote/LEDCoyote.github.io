@@ -3,4 +3,4 @@ title: LEDCoyote
 plugins:
   - jekyll-paginate
 paginate: 2
-paginate_path: "/blog/page:num/" 
+paginate_path: "/updates/page:num/" 
