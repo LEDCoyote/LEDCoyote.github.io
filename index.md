@@ -4,7 +4,6 @@ title: Home
 ---
 
 # LEDCoyote Internet Place
-Greetings from Charlie! Short thoughts, reactions, and noodling in the blog<!--, while more developed and longer pieces are under essays-->.
 
 ## Contents
 
@@ -28,4 +27,8 @@ Greetings from Charlie! Short thoughts, reactions, and noodling in the blog<!--,
 <!--
 ### Essays
 placeholder
+-->
+
+<!--
+### Stories & Poems
 -->
