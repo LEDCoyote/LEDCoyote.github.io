@@ -29,7 +29,6 @@ title: Home
 
 <!--
 ### Essays
-placeholder
 -->
 
 <!--
