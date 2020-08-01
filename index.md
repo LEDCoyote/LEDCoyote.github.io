@@ -10,7 +10,7 @@ title: Home
 
 ## Contents
 
-### Latest Blog Posts [(all)](/blog)
+### Latest Blog Posts [(all)](/blog/index.html)
 <div class="home-blog-list">
 {% for post in site.posts limit:1 %}
 <a class="home-post-link" href="{{ post.url }}">
