@@ -28,6 +28,7 @@
   .nav-dropdown {
     position: relative;
     display: inline-block;
+    float: right;
     
     .dropbtn {
       padding: 4px 8px 4px 8px;
@@ -51,7 +52,7 @@
       border-width: 1px;
       position: absolute;
       background-color: white;
-      min-width: 16rem;
+      min-width: 10rem;
       z-index: 1;
       
       a {
@@ -68,6 +69,7 @@
     
     .show {
       display: block;
+      right: 0px;
     }
   }
 }
