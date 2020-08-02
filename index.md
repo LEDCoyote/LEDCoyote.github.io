@@ -8,9 +8,7 @@ title: Home
 >
 > _World / Inferno Friendship Society_
 
-## Contents
-
-### Latest Entry
+## Latest Entry
 <div class="home-blog-list">
 {% for post in site.posts limit:1 %}
 <a class="home-post-link" href="{{ post.url }}">
