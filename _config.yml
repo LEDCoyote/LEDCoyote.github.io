@@ -3,6 +3,6 @@ title: LEDCoyote
 plugins:
   - jekyll-paginate
 paginate: 2
-paginate_path: "/updates/page:num/" 
+paginate_path: "/entries/page:num/" 
 permalink: /:categories/:title/
 excerpt_separator: <!--more-->
