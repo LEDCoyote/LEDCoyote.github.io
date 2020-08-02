@@ -1,7 +1,8 @@
 ---
 title: What is My Utopia?
 layout: post
-excerpt_separator: <!--more-->
+category: blog
+tags: politics economy
 ---
 
 Reading this [speech](http://unevenearth.org/2019/10/bookchin_doing_the_impossible/) by Murray Bookchin has inspired me to put words to the question of Utopia.<!--more--> It is clear that our world is out of balance. This is true at all scales of human activity. At the grandest scale—the planetary—we are quickly running out of time to salvage what remains of the future habitability of the Earth. And at the tiniest, we are injecting practically all lifeforms in Earth with foreign chemistry and microscopic plastic particles, and we have few clues what cracks they introduce into the physical fabric of life.

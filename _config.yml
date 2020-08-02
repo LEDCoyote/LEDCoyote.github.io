@@ -4,3 +4,5 @@ plugins:
   - jekyll-paginate
 paginate: 2
 paginate_path: "/updates/page:num/" 
+permalink: /:categories/:title/
+excerpt_separator: <!--more-->
