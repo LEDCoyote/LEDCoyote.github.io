@@ -23,19 +23,23 @@ title: All Entries
 </div>
 
 <div class="entry-nav">
+  <div class="prev">
   {% if paginator.previous_page %}
-  <a href="{{ paginator.previous_page_path }}" class="prev">
+  <a href="{{ paginator.previous_page_path }}">
     Previous
   </a>
   {% else %}
-  <span class="prev">Previous</span>
+  Previous
   {% endif %}
-  <span class="page_number ">
+  </div>
+  <div class="page_number ">
     Page: {{ paginator.page }} of {{ paginator.total_pages }}
-  </span>
+  </div>
+  <div class="next">
   {% if paginator.next_page %}
-  <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  <a href="{{ paginator.next_page_path }}">Next</a>
   {% else %}
-  <span class="next">Next</span>
+  Next
   {% endif %}
+  </div>
 </div>
