@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# LEDCoyote Internet Place
+<h1 class="page-title">LEDCoyote Internet Place</h1>
 > Because I'm addicted to bad ideas and all the beauty in this world.
 >
 > _World / Inferno Friendship Society_
