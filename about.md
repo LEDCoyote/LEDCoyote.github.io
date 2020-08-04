@@ -7,7 +7,7 @@ title: About
 
 Hi, I'm Charlie. I'm a parent, engineer, and just-starting-out writer. I live in Austin, TX and Bozeman, MT. I like coyotes (an essay on that later), hence the site title, and am fascinated by the invertebrate world. 
 
-I'm a part of various organizations and companies, but the opinions expressed here are entirely my own.
+I'm a associated with various organizations and companies, but the opinions expressed here are entirely my own.
 
 ## Other Worlds Than These
 - [Twitter](https://twitter.com/ledcoyote)
