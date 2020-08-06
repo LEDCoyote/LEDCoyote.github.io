@@ -20,6 +20,6 @@ Democracy also pervades its industrial and economic systems. The management of o
 
 Diplomacy is reoriented to a communitarian affair. Wherever there is the will to travel and see the world, citizens of the Earth can reach out to other communities, and share their cultures and goods with one another. Trade exists, then, but it is carried out in a way that respects the labor and land input into the product. The rapacious exploitation of human creative energies and of the land are relics of a barbarous past.
 
-Our world and society are wildly out of balance. Defining a utopia is not an exercise in idleness, but rather an urgent necessity avoiding the mad abyss of climate crisis and authoritarianism we are rapidly hurtling towards. The human race edges ever closer to midnight, and more than ever needs a light to follow out of the darkness.
+Our world and society are wildly out of balance. Defining a utopia is not an exercise in idleness, but rather an urgent necessity avoiding the mad abyss of climate crisis and authoritarianism we are rapidly hurtling towards. The human race edges ever closer to [midnight](https://thebulletin.org/doomsday-clock/current-time/), and more than ever needs a light to follow out of the darkness.
 
 ~ Elle
