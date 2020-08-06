@@ -12,7 +12,7 @@ So without further ado, what are some things that my utopia looks like?
 
 It's full of slow food. We've thought deeply about our food systems, and we have opted for gardens and organic food over industrial food _manufacture_ with intensive fossil fuel inputs. Farm workers are treated fairly like the essential humans they are. 
 
-*My utopia is democratic.* It is accountable to the masses from top to bottom. In its political institutions it is multiracial and multiethnic, with protection and dignity enshrined for all persons. Policing and safety are understood as community endeavors, per Peel's notion that ["The police are the public and the public are the police."](https://en.m.wikipedia.org/wiki/Peelian_principles#Sir_Robert_Peel's_principles)
+*My utopia is democratic.* It is accountable to the masses from top to bottom. In its political institutions it is multiracial and multiethnic, with protection and dignity enshrined for all persons. Public safety is understood as a community endeavor.
 
 Democracy also pervades its industrial and economic systems. The management of organizations are decided democratically by labor, and "private property" is understood as stewardship of society's means of production. Managers cannot dispose of them at will. And just as trust may be granted democratically, it may also be repealed. The piling up of wealth is shunned—actually it is impossible.
 
