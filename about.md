@@ -5,7 +5,7 @@ title: About
 
 <h1 class="page-title">About</h1>
 
-Hi, I'm Charlie. I'm a parent, engineer, and just-starting-out writer. I live in Austin, TX and Bozeman, MT. I like coyotes (an essay on that later), hence the site title, and am fascinated by the invertebrate world. 
+Hi, I'm Charlie (or Elle). I'm a parent, engineer, and writer. I live in Austin, TX and Bozeman, MT. I like coyotes (an essay on that later), hence the site title, and am fascinated by the invertebrate world. 
 
 I'm associated with various organizations and companies, but the opinions expressed here are entirely my own.
 
