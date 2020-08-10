@@ -24,4 +24,4 @@ Diplomacy is reoriented to a communitarian affair. Wherever there is the will to
 
 Our world and society are wildly out of balance. Defining a utopia is not an exercise in idleness, but rather an urgent necessity avoiding the mad abyss of climate crisis and authoritarianism we are rapidly hurtling towards. The human race edges ever closer to [midnight](https://thebulletin.org/doomsday-clock/current-time/), and more than ever needs a light to follow out of the darkness.
 
-~ Elle
+~ Charlie / Elle
