@@ -1,0 +1,43 @@
+---
+title: The Professional, or Protector of Capitalism
+layout: post
+Tags: capitalism, capital, labor, professionals, unions
+---
+
+Recently, I reflected on my current lot as an employee of one of the more successful, well-run, and, frankly, humane public companies in the United States. I began to think about the assumptions inherent in my work. What does my work culture tend to have me ignore? What society am I building by participating in it?<!--more-->
+
+I would venture that capital is the largest locus of power in America today. In the American system, means of production, both material and financial, are controlled by private interests. These are entrusted by society with the responsible disposal of those means in the _faith_ that it will result in an increase in material well being—the good life!—for all. This trusteeship (if you will) has increased over past decades at the same time that the administrative and regulatory state has been sharply reduced, lending ever greater latitude to private decision makers.
+
+The faith in capitalism is supported by vast networks of propaganda and political systems, but I focus my attention here on the system of highly paid professionals like myself. Private businesses enjoy an ideological mandate in their disposal of capital. Employees enjoy their protection in the form of economic support and access to life-critical systems including healthcare, and in return they render tribute in the form of their human energies. In the American system, there is no limit to how far one may fall if that protection is withdrawn, regardless of one’s starting place.
+
+The majority of employees contribute their human energies to the enterprise according to definite standards of work. Little more is expected of them, but they may be dismissed with a word. They are considered eminently replaceable. Workers at all levels have some ability to talk about the deficiencies in the system, as long as they don’t _do_ anything about it.
+
+For the purposes of this writing, I shall define the professional employee as that who is _irreplaceable_ relative to the employee described above. In their work, they typically operate in a more ambiguous space. No step-by-step instructions for these workers—they invent the work standards themselves. For the capitalist system to continue these workers must be constrained and controlled in ways not available in the way they are for _working class_ employees.
+
+The professional is the knight of capital. Even if they do not render ideological support through their words, they do it through their actions and the workplace culture in which they participate. Professionals behave according to a peculiar ethos. Their interests are assumed to be the interests of the _enterprise_. They aren’t ruled by the clock, because they behave _professionally_, not calling it quits until the work is done, even if it means nights and weekends. 
+
+The professional is taught to hate bureaucracy and love efficiency. For some, this attitude produces the classic “company man” or enterprise professional. Technical workers, as well as low to mid-level managers, could be said to fall into this category. The concern of the company man is increasing revenues and lowering costs. This could be technical or process oriented. Either way, it follows the guiding light of seeking higher profit for the company. The successful professional in this role can sleep soundly at night with the knowledge that they served the company balance sheet well, avoiding “office politics” except to cut through the red tape and remove inefficiencies.
+
+Professionals are expected to hone their craft daily. This produces an alternate mode of professionalism: that of the worker with mobility. Now the mobile professional need not stay when the going is tough. Instead of improving conditions in their current place, they can (relatively) easily move on to greener pastures. Another hater of politics and bureaucracy, this professional is rewarded by the ingeniousness and elegance of their solutions, achieved in spite of the obstructionism of the bean-counters and backwardness of the old guard.
+
+Both professional modes can be destructive to labor organizing. Indeed, professional culture is practically tailor-made to create strikebreakers.
+
+The enterprise professional will side with the company, of course. The initial reaction of this worker is bewilderment at the actions of their fellows. They cannot understand why a company that has treated them so well should be brought to a standstill. The strikers may have some valid complaints, but this all has to be taken into context of circumstances of the business environment, which are _always_ tough, in which competitors are _always_ on the verge of overtaking the firm, and so on and on.
+
+For the mobile professional, their first instinct might be to jump ship when the strike is called. That lover of craft and efficiency is unlikely to idle when they’d rather be working and, in their professional pride, cross the picket. There is nothing but disdain to be had for the strikers who are unwilling to work for the sake of excellence itself.
+
+It’s easy to be ungenerous to these archetypes, since, apart from pathological cases, hardly any _actual_ worker embodies these traits to their fullest extent. Right? Real workers live within constraints and under threats not captured by the above idealizations. They are, however, worth a close examination. Work culture has entrained so many of us to act in accordance with an abstract professionalism, which is vaguely defined enough to apply broadly, yet which slavishly serves capital and leaves no room for solidarity.
+
+What can be done? How does one navigate, and ultimately escape, being trapped between professional standards of thought and behaviour on the one hand, and the precipice of losing one’s total standard of life on the other?
+
+One has to remember that one is a worker. Businesses are operated according to the profit principle: they are motivated to act in the way that maximizes revenue while minimizing cost. And all workers fall on the cost side of that balance sheet. Whatever a business can do to pay less for more work, it will do. Professionals theoretically have some buffer against this, in their perceived irreplaceability, but even they will see that safety evaporate when the business catches a whiff of labor organization. Organized labor is seen as strictly a regulatory cost and a threat to the firm's freedom of action.
+
+Some businesses appear enlightened, relative to most. They are humane and benevolent. Yet, even this firm will be hostile to the idea of democracy in the workplace. Benevolence is only afforded under dictatorship. Whenever capital is constrained it will turn violently against threats to its unconstrained action. Within the firm, organized labor is a threat to the firm’s ability to dispose of its resources, er, humans, at will. Outside the firm, regulation by an administrative state is an even greater threat that imposes constraints throughout the organization’s structure.
+
+We must all understand that the scarcity we live under is largely a matter of choice. Obviously, there are physical limitations to the disposal of goods and services. Human ingenuity has bested these limitations over and over again. When labor organization and the regulatory apparatus are undercut, nothing prevents capital flight to cheaper work. Nothing attenuates the compulsion of all firms to operate under a logic of scarcity. Politically, we must seek to strengthen the hand of labor while imposing regulation on the movement of capital.
+
+All workers have to be alert to efforts to turn workers against one another. The logic of scarcity, zero-sum thinking, and artificial precarity strains the solidarity of workers. It introduces cracks between “classes” of workers when the real conflict is between the whole of the working class and capital. Resentments can percolate into these cracks if some workers are perceived as receiving unfair treatment. Why, though, aren’t all workers afforded a living wage? Rage at capital’s treatment of labor is co-opted into division between workers, while businesses’ profits rise and rise.
+
+Finally, for now, question the premises of “professionalism” within your own workplace and industry. Do the expected behaviours isolate or divide, or create artificial “classes” of workers? Are the expectations placed on you principally extractive of your creative energies? Without self-reflection on the part of professionals, we will remain a tool of capital and saboteurs of all workers.
+
+~ Charlie
